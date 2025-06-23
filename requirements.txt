@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+scikit-learn
+imbalanced-learn
+numpy
+matplotlib # Include matplotlib and seaborn as they were used for visualizations, might be needed if plots are included or dependencies exist
+seaborn
